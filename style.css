@@ -238,14 +238,6 @@ nav ul li a:hover::after
     display: block;
     margin-left: 10%;
 }
-.work iframe
-{
-    width: 80%;
-    border-radius: 8px;
-    display: block;
-    margin-left: 10%;
-}
-
 .layer
 {
     width: 100%;
